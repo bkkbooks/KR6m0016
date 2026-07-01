@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6m0016/t/v1/juan/0
+seq: 0
+front:
+  text: 廣百論疏卷第一凡佛品章文理復隱末學凝滯尚困蒙泉爰有軌辨才樂義窟之祕嵩巖之穴未方言阿犇瀉龍門之箭非喻碧鷄振翼青目愧其連環白馬飛翰平赤髭著其半棰既耽翫而先覺思硌迪于後昆遂握管抽毫述為論疏約文申義十卷勒成辨志離經達明白歷覽則思過其半研吟則目擊道存而今而後學無學人始可與論實矣位師昔上京講肆僕已資訓淹中今流沙播遷走復從遊瀨下師則老氏嘉遁喜葱嶺之非遙僕乃無姓窮塗愴瓜州之寔遠昧法師之釋論銷旅客之繁憂讚天人之德音託語懷於一序耳
+  hash: sha256:c46dff16dbf762f4263c14148c4bd5ff46871570f6f2cb16f546a5141d7c09f7
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6m0016_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 廣百論疏卷第一
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2800.xml
+    old_id: T85n2800
+hash: sha256:89008028a6b6f64552fc819eae4b7b029b95b16e8dcd379894e7fe46f7ccff90

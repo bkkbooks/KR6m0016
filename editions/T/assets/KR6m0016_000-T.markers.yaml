@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6m0016/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6m0016_T_000-0782b14, ed: T, 'n': 0782b14}
+  - {type: line-break, offset: 0, content: '', id: KR6m0016_T_000-0782b15, ed: T, 'n': 0782b15}
+  - {type: line-break, offset: 0, content: '', id: KR6m0016_T_000-0782b16, ed: T, 'n': 0782b16}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6m0016_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6m0016_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6m0016_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '2', id: KR6m0016_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6m0016_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '0', id: KR6m0016_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '0', id: KR6m0016_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6m0016_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6m0016_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6m0016_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6m0016_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6m0016_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6m0016_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6m0016_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6m0016_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '5', id: KR6m0016_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '7', id: KR6m0016_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '1', id: KR6m0016_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6m0016_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6m0016_T_000-0782b17, ed: T, 'n': 0782b17}
+  - {type: line-break, offset: 7, content: '', id: KR6m0016_T_000-0782b18, ed: T, 'n': 0782b18}
+  - {type: line-break, offset: 7, content: '', id: KR6m0016_T_000-0782b19, ed: T, 'n': 0782b19}
+  - {type: xml-element, offset: 7, content: '', id: pT85p0782b1901, name: p, role: open, attrs: {'xml:id': pT85p0782b1901}}
+  - {type: line-break, offset: 24, content: '', id: KR6m0016_T_000-0782b20, ed: T, 'n': 0782b20}
+  - {type: punctuation, offset: 29, content: □, id: KR6m0016_T_000-bkkpn20}
+  - {type: line-break, offset: 41, content: '', id: KR6m0016_T_000-0782b21, ed: T, 'n': 0782b21}
+  - {type: line-break, offset: 59, content: '', id: KR6m0016_T_000-0782b22, ed: T, 'n': 0782b22}
+  - {type: line-break, offset: 77, content: '', id: KR6m0016_T_000-0782b23, ed: T, 'n': 0782b23}
+  - {type: variant, offset: 85, length: 1, content: 抽于淑健、黄征整理《敦煌本古佚與疑偽經校注：以〈大正藏〉第八十五冊為中心》（南京：鳳凰出版社，2017）第5冊第2178頁。, 大: □}
+  - {type: line-break, offset: 95, content: '', id: KR6m0016_T_000-0782b24, ed: T, 'n': 0782b24}
+  - {type: punctuation, offset: 104, content: □, id: KR6m0016_T_000-bkkpn21}
+  - {type: line-break, offset: 112, content: '', id: KR6m0016_T_000-0782b25, ed: T, 'n': 0782b25}
+  - {type: punctuation, offset: 113, content: 。, id: KR6m0016_T_000-bkkpn22}
+  - {type: punctuation, offset: 120, content: 。, id: KR6m0016_T_000-bkkpn23}
+  - {type: line-break, offset: 130, content: '', id: KR6m0016_T_000-0782b26, ed: T, 'n': 0782b26}
+  - {type: line-break, offset: 148, content: '', id: KR6m0016_T_000-0782b27, ed: T, 'n': 0782b27}
+  - {type: line-break, offset: 166, content: '', id: KR6m0016_T_000-0782b28, ed: T, 'n': 0782b28}
+  - {type: punctuation, offset: 170, content: 。, id: KR6m0016_T_000-bkkpn24}
+  - {type: line-break, offset: 184, content: '', id: KR6m0016_T_000-0782b29, ed: T, 'n': 0782b29}
+  - {type: punctuation, offset: 188, content: 。, id: KR6m0016_T_000-bkkpn25}
+  - {type: punctuation, offset: 194, content: 。, id: KR6m0016_T_000-bkkpn26}
+  - {type: punctuation, offset: 200, content: 。, id: KR6m0016_T_000-bkkpn27}
+  - {type: page-break, offset: 202, content: '', id: KR6m0016_T_000-0782c, 'n': 0782c, ed: T, source_xml_id: T85.2800.0782c}
+  - {type: line-break, offset: 202, content: '', id: KR6m0016_T_000-0782c01, ed: T, 'n': 0782c01}
+  - {type: punctuation, offset: 207, content: 。, id: KR6m0016_T_000-bkkpn28}
+  - {type: xml-element, offset: 207, content: '', id: pT85p0782b1901_end, name: p, role: close, attrs: {'xml:id': pT85p0782b1901}}
+  - {type: line-break, offset: 207, content: '', id: KR6m0016_T_000-0782c02, ed: T, 'n': 0782c02}
+  - {type: line-break, offset: 207, content: '', id: KR6m0016_T_000-0782c03, ed: T, 'n': 0782c03}
+  - {type: line-break, offset: 207, content: '', id: KR6m0016_T_000-0782c04, ed: T, 'n': 0782c04}
+  body: []
+  back: []
+hash: sha256:f45f16ca160d96adc438267035d738c61b7d8b219ac0f7b05c7365f20095a691

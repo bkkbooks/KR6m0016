@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6m0016/v1
+canonical_location: https://kanripo.org/bkk/KR6m0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 廣百論疏卷第一
+  identifiers:
+    alt_id:
+    - T85n2800
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2800.xml
+    old_id: T85n2800
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0016_000.yaml, hash: 'sha256:9c3bad00454708ec4545d7aa42bba202c61d016acffe30f54801abc052a2cdb0'}
+  - {seq: 1, filename: KR6m0016_001.yaml, hash: 'sha256:0226500c71cd7d71e08c4a70e48dfae0a435f0090996ca57b5c15ad0b2e87248'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0016_000.markers.yaml, hash: 'sha256:f1fab80bb6788748f70a594c44d8f4344a8f52515cfd16fc71b9b416be26e64e'}
+  - {seq: 1, role: markers, filename: assets/KR6m0016_001.markers.yaml, hash: 'sha256:9a134e8889118e48a63b8df9e02780b8ae204e5a4f95ed421d4bd35e5ddba44a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6m0016_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 28557
+  label: 廣百論疏卷第一
+  type: juan
+  level: 1
+hash: sha256:34f344f2b3263b09686981bd1b232f74d033b05439d79c2a238b27194ff14f3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
