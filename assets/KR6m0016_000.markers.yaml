@@ -31,10 +31,7 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KR6m0016_T_000-0782b20, ed: T, 'n': 0782b20}
   - {type: punctuation, offset: 29, content: □, id: KR6m0016_T_000-bkkpn20}
   - {type: line-break, offset: 41, content: '', id: KR6m0016_T_000-0782b21, ed: T, 'n': 0782b21}
-  - {type: substitution, offset: 41, original: 犇, replacement: 奔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0491}}
-  - {type: substitution, offset: 50, original: 鷄, replacement: 雞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3564}}
   - {type: line-break, offset: 59, content: '', id: KR6m0016_T_000-0782b22, ed: T, 'n': 0782b22}
-  - {type: substitution, offset: 72, original: 翫, replacement: 玩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0446}}
   - {type: line-break, offset: 77, content: '', id: KR6m0016_T_000-0782b23, ed: T, 'n': 0782b23}
   - {type: variant, offset: 85, length: 1, content: 抽于淑健、黄征整理《敦煌本古佚與疑偽經校注：以〈大正藏〉第八十五冊為中心》（南京：鳳凰出版社，2017）第5冊第2178頁。, 大: □}
   - {type: line-break, offset: 95, content: '', id: KR6m0016_T_000-0782b24, ed: T, 'n': 0782b24}
@@ -46,7 +43,6 @@ markers:
   - {type: line-break, offset: 148, content: '', id: KR6m0016_T_000-0782b27, ed: T, 'n': 0782b27}
   - {type: line-break, offset: 166, content: '', id: KR6m0016_T_000-0782b28, ed: T, 'n': 0782b28}
   - {type: punctuation, offset: 170, content: 。, id: KR6m0016_T_000-bkkpn24}
-  - {type: substitution, offset: 180, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0610}}
   - {type: line-break, offset: 184, content: '', id: KR6m0016_T_000-0782b29, ed: T, 'n': 0782b29}
   - {type: punctuation, offset: 188, content: 。, id: KR6m0016_T_000-bkkpn25}
   - {type: punctuation, offset: 194, content: 。, id: KR6m0016_T_000-bkkpn26}
@@ -60,4 +56,4 @@ markers:
   - {type: line-break, offset: 207, content: '', id: KR6m0016_T_000-0782c04, ed: T, 'n': 0782c04}
   body: []
   back: []
-hash: sha256:f1fab80bb6788748f70a594c44d8f4344a8f52515cfd16fc71b9b416be26e64e
+hash: sha256:db9f2f25c5e89c4f67387b7bff81a6b5b88fea68217013bed1a91ca894ad5db8
