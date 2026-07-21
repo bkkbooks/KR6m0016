@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6m0016_000-T.yaml, hash: 'sha256:89008028a6b6f64552fc819eae4b7b029b95b16e8dcd379894e7fe46f7ccff90'}
+  - {seq: 0, filename: KR6m0016_000-T.yaml, hash: 'sha256:459be346babf41b991586e7188843858b8ec3cc5b314cbff0ec532f15889cc55'}
   - {seq: 1, filename: KR6m0016_001-T.yaml, hash: 'sha256:41c36dcc0ab779494b5a925fca724125a4c9909fdf1d634b2b8ab9d4a7541935'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6m0016_000-T.markers.yaml, hash: 'sha256:f45f16ca160d96adc438267035d738c61b7d8b219ac0f7b05c7365f20095a691'}
+  - {seq: 0, role: markers, filename: assets/KR6m0016_000-T.markers.yaml, hash: 'sha256:4533e6292803c28f045f6bf1fd551beb8ff6b4b9b0ea22c8a477ae49d3d41f4b'}
   - {seq: 1, role: markers, filename: assets/KR6m0016_001-T.markers.yaml, hash: 'sha256:1dc583e0e8d54f06f9189bd0517386d0e64f525418f7e42ab677dd49ccaea6a3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6m0016_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 廣百論疏卷第一
   type: juan
   level: 1
-hash: sha256:ab7b1137e05ea9ec353d48846326d98488663ed8ece38cc3a2a7f133b1db4de0
+hash: sha256:c0b652eabc484b6c6ffe4762a77670c3de0717c12477b3476dd1069dbe6803dc
